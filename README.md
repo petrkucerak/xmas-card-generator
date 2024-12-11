@@ -1,4 +1,4 @@
-# README: Christmas Card Generator Script
+# Christmas Card Generator Script
 
 ## Overview
 
