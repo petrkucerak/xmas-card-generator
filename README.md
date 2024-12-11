@@ -4,7 +4,7 @@
 
 This Python script generates personalized Christmas cards in a Word document format (`.docx`) using data from a CSV file. It provides tailored messages for two types of recipients (`A` and `B`) based on the input data and applies custom formatting to produce professional-looking cards.
 
----
+
 
 ## Features
 
@@ -14,7 +14,7 @@ This Python script generates personalized Christmas cards in a Word document for
 - **Styled Text**: Sets default font style, size, and line spacing for professional formatting.
 - **Multi-page Output**: Each card is created on a separate page in the output document.
 
----
+
 
 ## Prerequisites
 
@@ -33,7 +33,7 @@ This Python script generates personalized Christmas cards in a Word document for
    - `quote`: The unique quote for the recipient
    - `source`: Source/reference for the quote
 
----
+
 
 ## Usage
 
@@ -53,7 +53,7 @@ This Python script generates personalized Christmas cards in a Word document for
 
 3. **Output**: The script generates a Word document named `xmas-cards.docx` in the same directory.
 
----
+
 
 ## Customization
 
@@ -65,14 +65,14 @@ The script includes predefined messages for `type A` and `type B` recipients. To
 ### Formatting
 - Adjust the default font and line spacing by editing the `style` settings in the script.
 
----
+
 
 ## Error Handling
 
 - If the input CSV file is not found, the script outputs an error message: `Error: File not found at {file_path}`.
 - General exceptions are caught and displayed for troubleshooting.
 
----
+
 
 ## Output Example
 
