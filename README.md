@@ -88,8 +88,3 @@ The script generates a card with:
 - Quote: `“You are the light of the world.”`
 - Quote reference: `Matthew 5:14`.
 
----
-
-## License
-
-This script is open-source and available for personal or community use. Feel free to adapt and share as needed.
